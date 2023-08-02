@@ -1,0 +1,84 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Post {
+  id              String      @id @default(uuid())
+  title           String      @unique
+  subtitle        String
+  cover           String
+  content         String?     @db.Text
+  slug            String      @unique @db.VarChar(255)
+  published       Boolean     @default(false)
+  created_at      DateTime    @default(now())
+  updated_at      DateTime    @updatedAt
+
+  categories      CategoryOnPosts[]
+  tags            TagOnPosts[]
+  author          User        @relation(fields: [authorId], references: [id])
+  authorId        String
+}
+
+model User {
+  id              String      @id @default(uuid())
+  email           String      @unique
+  name            String      
+  password        String      
+  emailVerified    Boolean     @default(false)
+  provider        String?      
+  providerId      String?
+  avatar          String?     @db.VarChar(255)
+  created_at      DateTime    @default(now())
+  updated_at      DateTime    @updatedAt
+
+  posts           Post[]
+  role            Role        @relation(fields: [roleName], references: [name])
+  roleName        String
+}
+
+model Role {
+  id              String      @id @default(uuid())
+  name            String      @unique
+
+  user            User[]
+}
+
+model CategoryOnPosts {
+  post            Post        @relation(fields: [postId], references: [id])
+  postId          String
+  category        Category    @relation(fields: [categoryId], references: [id])
+  categoryId      String
+  
+  @@id([postId, categoryId])
+}
+
+model TagOnPosts {
+  post            Post        @relation(fields: [postId], references: [id])
+  postId          String
+  tag             Tag         @relation(fields: [tagId], references: [id])
+  tagId           String
+  
+  @@id([postId, tagId])
+}
+
+model Category {
+  id              String      @id @default(uuid())
+  name            String      @unique
+
+  posts           CategoryOnPosts[]
+}
+
+model Tag {
+  id              String      @id @default(uuid())
+  name            String      @unique
+
+  posts           TagOnPosts[]
+}

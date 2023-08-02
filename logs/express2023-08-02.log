@@ -1,0 +1,24 @@
+
+Request: OPTIONS /api/categories at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 204 0.792 ms 
+
+Request: OPTIONS /api/tags at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 204 0.085 ms 
+
+Request: OPTIONS /api/categories at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 204 0.095 ms 
+
+Request: OPTIONS /api/tags at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 204 0.145 ms 
+
+Request: GET /api/categories at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 500 23.568 ms 
+
+Request: GET /api/categories at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 500 15.223 ms 
+
+Request: GET /api/tags at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 500 18.751 ms 
+
+Request: GET /api/tags at Wed Aug 02 2023 09:15:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 500 16.925 ms 

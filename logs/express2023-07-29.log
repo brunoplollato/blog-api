@@ -1,0 +1,280 @@
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:18:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.735 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:18:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$GxRnoN0eTZ8u5em2kOnDXuOsjvRVd9s5WnN6MKAf0VDrVKmW5jfze"
+}
+Response: 401 76.066 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:18:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.324 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:18:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$LW72QBtJhA/SXWBQwZ6KOOOaOVMv3Y7mvDvHXgaqyhnN7gqzwxkBy"
+}
+Response: 401 20.048 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:21:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.979 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:21:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$d4yA.7JdXvNtAf0X.gUMt.LaQNgdxHfxw0W6PgPYcoLOLxkh1aqBK"
+}
+Response: 401 43.484 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:21:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.458 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:21:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$v2B2Qp9AswbRWJ67bwnYROVMdGlJpasBQ6K6zbVJj.BeAjPB1Aa5G"
+}
+Response: 401 47.980 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.187 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$18cXigvT0WgQpM0JsNrCvOGXnVAAYlj8wANFhv5Qx6T5vd11fEemK"
+}
+Response: 401 16.706 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.177 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$eQOgoZkJ00ebGV5E9PCFWuK6t2Z3NePVoiYCf8WhvbwgY46r73KHO"
+}
+Response: 401 16.678 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.171 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$/dBhnajJ6zKepZPmLekBROMkKxmuAVGYtCo3O./ybhpwtG8nHgW9e"
+}
+Response: 401 16.695 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.169 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$SXo51kDcT3fX0d5e9arQGuC5YLrHHVcs7OgqduHUyi66NR4S2IdKy"
+}
+Response: 401 16.756 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:26:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.245 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:26:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$LOQ5FjhUHSKW6MKQpx.02.uk.An2PUAUNDmGVR4ngtTrn1RwldoRm"
+}
+Response: 401 63.490 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:26:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.735 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:26:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$gG5dhOg3/AMS1Z1pDm2E3OBqSlLPxkzjwHUQbZNU2cMS/C8nfSWg."
+}
+Response: 401 73.916 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:26:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.327 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:26:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "$2a$08$OV48mF5o2fratM70GoQ7R.OFHtd9x5xkHUJZ4IlPsizLETa2lDyOS"
+}
+Response: 401 17.013 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:27:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.261 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:27:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQwODIyLCJleHAiOjE2OTA2NDQ0MjJ9.w6MXsEmlSlv6xUrCsSoMaY8iNN-F8ZzAPuNi0lIloDw",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQwODIyLCJleHAiOjE2OTMyMzI4MjJ9.LhQdO3Zbl1SfgBuD8N_4bPd57IJDarbOW-LuUcuPkd0"
+	}
+}
+Response: 200 19.801 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:27:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.278 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:27:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQwODc5LCJleHAiOjE2OTA2NDQ0Nzl9.7Uj4PnQ4Ys44qPTUDSDiG9MA8UE9ryzmekPTBENY68A",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQwODc5LCJleHAiOjE2OTMyMzI4Nzl9.ULg_Ipsxa9ZVPo0kd1-NUsBiNu6NHo-k1hu1x4v4SRA"
+	}
+}
+Response: 200 17.734 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:35:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.617 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:35:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQxMzEyLCJleHAiOjE2OTA2NDQ5MTJ9.TV3ptdm3Ei_Xd8NLA7MjKBS7jGJyq0HPsBjUBILfRGU",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQxMzEyLCJleHAiOjE2OTMyMzMzMTJ9.n2EPUznCyD8pXkEvh3pDwWnqNFJ7vx0YBV-0nJfoUNM"
+	}
+}
+Response: 200 110.246 ms 
+
+Request: OPTIONS /auth/login at Sat Jul 29 2023 11:36:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.208 ms 
+
+Request: POST /auth/login at Sat Jul 29 2023 11:36:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQxMzg2LCJleHAiOjE2OTA2NDQ5ODZ9.nrr7xSJElscOZL7H2_mR5HQUyomhLCXvmCHSgCyZRcg",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNjQxMzg2LCJleHAiOjE2OTMyMzMzODZ9.oy4W_kPziQzi-A-8-eUzqtPM8wxp7OFCtTy6rqRCXO8"
+	}
+}
+Response: 200 20.753 ms 
+
+Request: GET /auth/refresh-token at Sun Jul 30 2023 13:53:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 9.164 ms 
+
+Request: OPTIONS /auth/refresh-token at Sun Jul 30 2023 21:29:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 13.860 ms 
+
+Request: POST /auth/refresh-token at Sun Jul 30 2023 21:29:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"body": {}
+}
+Response: 500 44.186 ms 
+
+Request: OPTIONS /auth/refresh-token at Sun Jul 30 2023 21:29:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.722 ms 
+
+Request: POST /auth/refresh-token at Sun Jul 30 2023 21:29:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"body": {}
+}
+Response: 500 1.608 ms 
+
+Request: OPTIONS /auth/login at Sun Jul 30 2023 22:07:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.939 ms 
+
+Request: POST /auth/login at Sun Jul 30 2023 22:07:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNzY1NjUyLCJleHAiOjE2OTA3NjkyNTJ9.2zoIMXx7xPtDVzCT7Eh4zbGIA0EYgN1lgcKe2c9Z02c",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7Im5hbWUiOiJCcnVubyBMb2xsYXRvIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJyb2xlTmFtZSI6ImFkbWluIiwiYXZhdGFyIjpudWxsfSwiaWF0IjoxNjkwNzY1NjUzLCJleHAiOjE2OTMzNTc2NTN9._LW5LwUkHDTwnoSE7jJrbqImYWFK3DSkH7DY9bBztao"
+	}
+}
+Response: 200 149.309 ms 

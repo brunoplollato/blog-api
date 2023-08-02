@@ -1,0 +1,2429 @@
+
+Request: POST /api/posts at Thu Jul 27 2023 08:02:20 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 500 12.572 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:03:00 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 500 11.074 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:03:24 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 500 10.119 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:05:49 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 500 11.463 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:05:58 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 500 1.840 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:06:24 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 500 12.547 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:08:37 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 404 163.588 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:09:09 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 404 52.000 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:10:32 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 404 63.637 ms 
+
+Request: POST /api/posts at Thu Jul 27 2023 08:10:39 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"title": "Sample Post 3",
+	"subtitle": "sample post subtitle",
+	"content": "content test",
+	"slug": "sample-post-3",
+	"cover": "cover.jpg",
+	"published": true,
+	"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+	"categories": [
+		"380b8e27-61af-48e7-8c04-f3729ee0f5dc"
+	],
+	"tags": [
+		"e8e2ba35-a1a3-45bd-b101-5264a6529651",
+		"6f79e942-6e13-423c-9383-5af3df444fa3"
+	]
+}
+Response: 404 3.581 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:11:08 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 5.123 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:11:32 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 1.558 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:11:53 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 6.904 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:12:53 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			]
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"title": "Sample Post 2",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-2",
+			"published": true,
+			"created_at": "2023-07-26T16:49:14.061Z",
+			"updated_at": "2023-07-26T16:49:14.061Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"java
+...
+Response: 200 42.427 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:13:50 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 64.136 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:14:03 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 6.903 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:15:48 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			],
+			"authorName": "Bruno Lollato"
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"t
+...
+Response: 200 25.809 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:16:26 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 13.563 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:16:33 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 12.780 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:16:47 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			],
+			"authorName": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lolla
+...
+Response: 200 55.124 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:17:06 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			],
+			"authorName": "Bruno Lollato"
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"t
+...
+Response: 200 13.585 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:17:22 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 13.236 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:17:43 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			]
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"title": "Sample Post 2",
+			"subtit
+...
+Response: 200 14.268 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:18:30 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			]
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"title": "Sample Post 2",
+			"subtit
+...
+Response: 200 14.108 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:18:32 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			]
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"title": "Sample Post 2",
+			"subtit
+...
+Response: 200 2.688 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:18:33 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"email": "brunopa.lollato2@gmail.com",
+				"name": "Bruno Lollato",
+				"password": "$2a$08$dFAhx6RftF8UlyHtBudrcOxTcj68ILh4JF6b0R6.rURYowVb1PKhy",
+				"verified": false,
+				"created_at": "2023-07-26T16:43:30.533Z",
+				"updated_at": "2023-07-26T16:43:30.533Z",
+				"roleName": "user"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			]
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"title": "Sample Post 2",
+			"subtit
+...
+Response: 200 2.534 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:20:02 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 500 12.397 ms 
+
+Request: GET /api/posts at Thu Jul 27 2023 08:20:30 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response Body:
+{
+	"status": true,
+	"message": "All posts retrieved successful",
+	"data": [
+		{
+			"id": "cb145c8c-9ff6-4e4b-a789-2d6159a8f5c3",
+			"title": "Sample Post 1",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-1",
+			"published": true,
+			"created_at": "2023-07-26T16:49:04.227Z",
+			"updated_at": "2023-07-26T16:49:04.227Z",
+			"authorId": "8391b771-8030-4538-b05b-52021cb1776a",
+			"author": {
+				"id": "8391b771-8030-4538-b05b-52021cb1776a",
+				"name": "Bruno Lollato",
+				"email": "brunopa.lollato2@gmail.com"
+			},
+			"categories": [
+				"javascript"
+			],
+			"tags": [
+				"typescript",
+				"javascript"
+			]
+		},
+		{
+			"id": "820c583c-92a6-477b-a207-c7c3886b166a",
+			"title": "Sample Post 2",
+			"subtitle": "sample post subtitle",
+			"cover": "cover.jpg",
+			"content": "content test",
+			"slug": "sample-post-2",
+			"published": true,
+			"created_at": "2023-07-26T16:49:14.061Z",
+			"updated_at": "2023-07-26T16:49:14.06
+...
+Response: 200 13.596 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:21:23 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 302 1.317 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:21:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.394 ms 
+
+Request: POST /api/roles at Thu Jul 27 2023 08:25:50 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "user"
+}
+Response: 500 17.244 ms 
+
+Request: POST /api/roles at Thu Jul 27 2023 08:25:53 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "admin"
+}
+Response: 500 1.316 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:27:59 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response: 500 59.648 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:29:16 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response: 500 4.785 ms 
+
+Request: GET /auth/github/callback?code=c9b32fa4fed1e5c4b07e at Thu Jul 27 2023 08:29:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1554.496 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:34:27 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response: 500 12.542 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:35:02 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response: 500 12.040 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:35:14 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response: 500 59.660 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:35:56 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response: 404 15.585 ms 
+
+Request: POST /auth/register at Thu Jul 27 2023 08:37:02 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"name": "Bruno Lollato",
+	"email": "brunopa.lollato@gmail.com",
+	"password": "085996",
+	"confirmPassword": "085996",
+	"roleName": "admin",
+	"provider": "local",
+	"providerId": "",
+	"avatar": ""
+}
+Response Body:
+{
+	"status": true,
+	"message": "User register successful",
+	"data": {
+		"id": "b172c585-6809-49a2-8626-ce2134d5e5f3",
+		"email": "brunopa.lollato@gmail.com",
+		"name": "Bruno Lollato",
+		"password": "$2a$08$cd5D1xFlhwWbUuK6d7B5FOLwp9yE6UZqLnlPz3NntV6dTC5gXdyoi",
+		"emailVerified": false,
+		"provider": "local",
+		"providerId": null,
+		"avatar": null,
+		"created_at": "2023-07-27T11:37:02.057Z",
+		"updated_at": "2023-07-27T11:37:02.057Z",
+		"roleName": "admin"
+	}
+}
+Response: 200 94.737 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:37:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.174 ms 
+
+Request: GET /auth/github/callback?code=d7daf478800f039afc9c at Thu Jul 27 2023 08:37:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:37:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.522 ms 
+
+Request: GET /auth/github/callback?code=28a05b42c4375cbfd91c at Thu Jul 27 2023 08:37:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=c9b32fa4fed1e5c4b07e at Thu Jul 27 2023 08:37:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 186.132 ms 
+
+Request: GET /auth/github/callback?code=c9b32fa4fed1e5c4b07e at Thu Jul 27 2023 08:37:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 454.969 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:38:46 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 302 0.223 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:38:54 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 302 0.263 ms 
+
+Request: GET /auth/github/callback?code=c9b32fa4fed1e5c4b07e at Thu Jul 27 2023 08:38:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 223.225 ms 
+
+Request: GET /auth/logout at Thu Jul 27 2023 08:39:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+{
+	"status": true,
+	"message": "Logged out successfully"
+}
+Response: 304 0.854 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:39:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.236 ms 
+
+Request: GET /auth/github/callback?code=8a665d7680700832f922 at Thu Jul 27 2023 08:39:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/logout at Thu Jul 27 2023 08:39:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+{
+	"status": true,
+	"message": "Logged out successfully"
+}
+Response: 304 0.290 ms 
+
+Request: GET /auth/logout at Thu Jul 27 2023 08:40:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+{
+	"status": true,
+	"message": "Logged out successfully"
+}
+Response: 304 2.364 ms 
+
+Request: GET /auth/logout at Thu Jul 27 2023 08:40:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+{
+	"status": true,
+	"message": "Logged out successfully"
+}
+Response: 304 2.160 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:40:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.266 ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:40:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 251.112 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:40:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.579 ms 
+
+Request: GET /auth/github/callback?code=aae840f80c36fd8c0f87 at Thu Jul 27 2023 08:40:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:40:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 249.841 ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:40:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 178.041 ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 174.037 ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:41:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 172.041 ms 
+
+Request: GET /auth/github/callback?code=9d78e2a9cf2f06907a64 at Thu Jul 27 2023 08:42:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1309.798 ms 
+
+Request: GET /auth/github/callback?code=23af2053cd2de97c4a79 at Thu Jul 27 2023 08:43:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1296.615 ms 
+
+Request: GET /auth/github/callback?code=23af2053cd2de97c4a79 at Thu Jul 27 2023 08:43:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 169.721 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:43:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.393 ms 
+
+Request: GET /auth/github/callback?code=f49aca8e4a8671ceaee0 at Thu Jul 27 2023 08:44:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 252.237 ms 
+
+Request: GET /auth/github/callback?code=f49aca8e4a8671ceaee0 at Thu Jul 27 2023 08:44:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 187.410 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:44:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.374 ms 
+
+Request: GET /auth/github/callback?code=f10d60df649f779a4693 at Thu Jul 27 2023 08:44:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 263.432 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:44:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.593 ms 
+
+Request: GET /auth/github/callback?code=335e35d603fbb80a47ae at Thu Jul 27 2023 08:48:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 264.901 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:48:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.552 ms 
+
+Request: GET /auth/github/callback?code=d9577a1791185d9df802 at Thu Jul 27 2023 08:51:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=d9577a1791185d9df802 at Thu Jul 27 2023 08:51:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 240.046 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 08:52:16 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.356 ms 
+
+Request: GET /auth/github/callback?code=e82a45ab7cbd8ce1b3d4 at Thu Jul 27 2023 08:53:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 271.398 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 09:02:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 2.196 ms 
+
+Request: GET /auth/github/callback?code=eecdf04d6c0cab8fe7f8 at Thu Jul 27 2023 09:02:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=e82a45ab7cbd8ce1b3d4 at Thu Jul 27 2023 09:02:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 176.509 ms 
+
+Request: GET /auth/github/callback?code=e82a45ab7cbd8ce1b3d4 at Thu Jul 27 2023 09:02:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1286.958 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:12:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.496 ms 
+
+Request: GET /auth/github/callback?code=e82a45ab7cbd8ce1b3d4 at Thu Jul 27 2023 09:13:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1323.465 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:13:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.303 ms 
+
+Request: GET /auth/github/callback?code=e82a45ab7cbd8ce1b3d4 at Thu Jul 27 2023 09:13:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 257.942 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:15:53 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Response: 302 1.330 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:16:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.461 ms 
+
+Request: GET /auth/github/callback?code=e82a45ab7cbd8ce1b3d4 at Thu Jul 27 2023 09:16:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 281.504 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:16:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.768 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUPqs8D-jy66UQAA28ddlL1OiyOmjqNNKdJ7eoeuUNNg0YCOtWa6zFe7C7tfIV6cg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:17:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:17:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.637 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:20:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.670 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:20:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.603 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:21:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.328 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU1rJwj4laG_KPDWK2HXbkoMSyAmMTAvLmDe7D5RTXLetrHM_QD4KmoMxER-kseTQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:23:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 273.120 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:23:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.724 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUWoSsfewPzcS6S5SHcrpMndkU3p3qHBkW0168HBW3bOpdIWgmnj3gATUf1d3fflw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:23:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU2IQo1akJvDv7Kck0AKLMlqTO_27HnKuTTp6rYV6wigL47Z9TwuYiLfekYW7fvuQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:24:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 260.675 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUMvttTqZJ-7sJG-VF7GwcjzWdkbYnWBe40OYLtZy11v0epZcWkmnb46RCtSMSsbg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:25:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 255.873 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXC5EZI32coyx99lRT088vHyQf1D-6_jEz0BoH_K5OQ_V_-peMDbBzM_ZHzCSaEgQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:26:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 275.150 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXaTMkuhp20U1F5G1fgvDJAFHpz_kgDbFjVJxsb32WwQCOudJ0fpFGlImhvaUjWWw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:28:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 245.807 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXjfxFD0oSr7-RmrSgWnQ18LrnOKyISLKl02m7vkdUOUFddqUanv64uPn8TV8qmNg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:29:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 240.016 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWjaLxdlJ_XKMh4E8weig-kg7KKE4UGpVtN9H8ycGIkao1bW25ttufX5ytzRxlf8Q&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:30:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 261.005 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU6XUG1c5y0PpnZBQlt_g8cDPDIOzJ6ZzXIQgQtA030QBY7lF1H1HY3WBNjC9o3Dg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:32:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1292.978 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXGQlXDtpK_rjbnVFqbO_aob6Rp8M6rF4mwiPNWnbJMv16y8ri_BFXUNvNTJCjfVw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 370.252 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVdWxdOk1GCRKfqglnk5vqSXdr9M5HKqkhLI8xqRQ1XM8xyDVAzWHp8lhhRrW2H_g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:36:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 381.112 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXxWw1IURo4C8DhrxY7MFI_6mfF2eRTaaFMNCK0mCH5Tp3x0-fH0FXtXnUxPFtf2w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:37:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU1rJwj4laG_KPDWK2HXbkoMSyAmMTAvLmDe7D5RTXLetrHM_QD4KmoMxER-kseTQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:38:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 399.585 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVQFkRIZFqd3TzNP1KRy26nDYV3fd85BnqiUIja9VPlxs8J0TL-0QTmTK_AsmbQQw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:39:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 220.049 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVGTJ9cPAfGbpNBsFWipyjoZ_auJiF_XDm4qHyinL1UtBWi_dbbjGV3T7HfzIg1TA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:39:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 218.421 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU26MwP6LWI7XgqFPFefmHUj7ha9Zm1p6eVlXGFMkv0PL6ksLQ9rqsi37OjELdpqw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:40:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 258.033 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWpe_Q9K1kF8rXxF0AZuZcGDBSgoo6CEtSF1WB-GBvDDXHFgKdtuQKZk1J6BopRmw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:41:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 409.800 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXln3KnC4UInnmb30AVMa4RR8lYIzSnN3V-HmxMGsjCGJ3GqlwQ-Jgb9jVzvZvuDw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:43:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVlfmT4wDCDYksIEJ_ekLLBCSTt2kpT1gY9e1vkD_OoVFNoPQGzqc9BnuvtUfO1YA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 09:46:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU1rJwj4laG_KPDWK2HXbkoMSyAmMTAvLmDe7D5RTXLetrHM_QD4KmoMxER-kseTQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:46:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 217.088 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:46:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.471 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWwcPnmbXs44fQac886vr08DXeZXJOJtNzPr8qyrR29FXxxMMRIIMLjwwp-nwhrAQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:46:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 228.420 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 09:47:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.288 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWCX_C5XT0nn7nuS-Os8w06tboCpMsal2YTJbLqhJU4zpaGNFy5eAoSB2U3OivGcg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:47:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 241.444 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVWTFpkbhJj54GJU7EdIsYJ-xePESUop5EjM-WlADtuDRoxdVjzncLyc1xMeZaxpw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:48:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 248.421 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWiJZl-aEUNg0VPsIXbdrjQS_h9sGHb8uPtqpXDlcACAHvijA1AuqS0OFXgE1yRwA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:49:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 254.955 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXTDvygjRmG5-MG_bNeWaznhyAF1j01Q34YYZU1xWQzF16YY6q5tugbW9OCBHMd-w&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:50:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 239.283 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU5yr_zzXnqJounCqAr5CB74S5jiwZiapP7ysdSKCK6y7GtVm0L4fFwF6Wz0dLB1A&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:51:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 211.725 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUUTOT1hRxyE0MZo0ZrKOCmLIcvA8sdAFf0e2CWgPJ_fiHAWWe8oHbBwYKE8AnmWw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:52:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 368.375 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW9bmOrn5BnEwYoVUK8TN2NY4SComl0rxmmUGzxohIs7YwIB8enWX8X90iDiT96Tg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:52:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXZ-tVE3qq7y8KyNLwcQor5KlM6000LlvkY-34GE92QNyuJk3PkT9c5euowS1V9Cw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:53:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 225.945 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV2zMcbvDdun3BTtuO-kQcEoN7CPR5-DPgc2MD2AOQlrs7wAIL_EQsH9IcSu8nWdw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:54:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 219.364 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV-bbJq2zl3rMZJoRqtGICt3VZDXT3Vk_rDwTCEoohM3q72rNW71u0ITMBx1P47yw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:54:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 385.685 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVhVQZUPOOlfqh81uab-GfzTeQHCFUAdfvcB0BjzezuqcncqXnBlOHmKJJku2uhvA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:55:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 232.529 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVWJj5tcZ0mYz8hM2BLKr-vClmXij9bWZIW6xalhN-jIJK7t2s2yI7Ybmf27u7kdg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:56:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1431.426 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVWJj5tcZ0mYz8hM2BLKr-vClmXij9bWZIW6xalhN-jIJK7t2s2yI7Ybmf27u7kdg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:56:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 124.316 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVWJj5tcZ0mYz8hM2BLKr-vClmXij9bWZIW6xalhN-jIJK7t2s2yI7Ybmf27u7kdg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 09:56:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 95.426 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWzpWcikMGR07VX8wmjgf7_NYnlwe62zhayIZ3gwdUoNucp6lhsJ2S7FgvQWbmTQw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:02:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 266.439 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW1nMrJP6O7ZwdwtdStAzPMejhLevckcmJ5Nm9wLch3pKFtP29WWFsL635JVxLUJw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:02:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 291.382 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVMA7y0MhCu1vJC_UoW_yJDEtPPJzYRmlqJpAsJ9eAQ2XNGhzAiUAh65_kt-QWOrw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:06:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV8XDEmQ3XMJYI4A3XMNNXf5O5Oevluztw_irLeRwIYAlIpyUvN7GWZHvwD0wE0IQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:07:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 396.359 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV8XDEmQ3XMJYI4A3XMNNXf5O5Oevluztw_irLeRwIYAlIpyUvN7GWZHvwD0wE0IQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:09:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 228.183 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW-akYAq-fmjeAaEndgnq-eabm-jQEjas4O3yp5oWS2U2AaXOmVCFOaAk3nS_dW_g&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:10:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW-akYAq-fmjeAaEndgnq-eabm-jQEjas4O3yp5oWS2U2AaXOmVCFOaAk3nS_dW_g&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email at Thu Jul 27 2023 10:10:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 480.641 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU4t7BkgTAO3dVB5UpwyL-VPz5_jlpY5hlm0llkJVhH6hAwf3SgUU4JizSzx2KORQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:11:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 238.668 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXhhAIZHi2xQUqvzxWZdFr5cuWzhRpTDnBCGse4FRT21FFrB97Ivy8jYEPBhnbXfA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:11:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXhhAIZHi2xQUqvzxWZdFr5cuWzhRpTDnBCGse4FRT21FFrB97Ivy8jYEPBhnbXfA&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:11:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 191.957 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUwlcAtXA36-Ln1Q484gh0QdqBbq-LCWLrfp47VD38qfDrS7njXyLPtHJtcXch-ug&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:12:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 372.032 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXGWG3M3GplnKtNXySMcTVGuLEksOuMzxmrTP5y4VKYpvJ4anZq3oprlO4nfVFEgg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile at Thu Jul 27 2023 10:12:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:12:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.630 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWXJOuphHQzLWQpvtueTpaSCc4uGoXNlsLmEsAQ_zoyBz5U0TBGGiAYKvybnMJ57Q&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:13:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 401.935 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:14:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.857 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVXAAj3O7vaxzAUyqY-4H0egC9fnav-ZwBBxQOLUBOe3izAd7OVWnfofrIg9v0_oA&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:14:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 227.264 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:14:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.608 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXcXWPHyyo9LWiKSYtqJmCGnCcgXQu2ur0YnTW_a88EcAJ6I55LS_sTAsR2PucSNg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:16:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 275.475 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:16:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.635 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhU3gNn9kix6icUm5Mce7OMiIvmb-kxaJXIPo0d2kVqYaR72A3U2uERJ1zcS_j4JRw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:17:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 382.554 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:17:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.610 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVy4iJvu8LxbIvCBq267Ud4XifvvAVnMQkwv3EK_F7p-OKdBUQ--XElV-FIW0KDGg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:18:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 231.431 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:18:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.678 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhX1gU4TV6mkxWmjungxhSHaODteDFPVMAXdDa0Lr4-6oRZC9wU3XMIc2Q-3wXslCA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:18:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 259.971 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWDEuy0Gh4XZnJTnb2ZBsPrR5Yx3BBr8Hefy8OLTjwdxN92kaKotWrfK-IzoHGEwQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:19:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 238.302 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUCni72xkw4S1E-Hq083pvGgxdBFS6vcO7gerjFtSJkzYmtZTZF4pqqG29CKYAAHg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:20:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 214.952 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXxiDOUImtDiAEdF2UE2Yuy_0o8plLrlHh3cdspH7JRRROvvekuJCgVvDrMivWELQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:21:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 211.175 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 10:21:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.622 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUI0PfFPgospzDMeoXZY5JuRQyhphyTH7n6tt8jISYhZ2qN6HEzhWzsLTW8Y4BVOw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:21:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 263.638 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXrBimqp_MOSTU_TH-ztUzE3nIHvQxdPLn2IRurVHhirXc_JZ-DmbkYInhEv07q6A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:22:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 219.351 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXoSPQJW0VnzF3B2ia0eSb-0BQzaVMW8xIscdQIzIWnc4w9uRR1PuLmEmL1joH7BA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:23:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 217.400 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhULsVOb8tz_2FOFz8qrA71uzcou52yYInBpQZwY_4uZrLAuK36edo-L3CA8E2k_fg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:23:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUPoqMLZWsdLC7jT9RH3_MPy40ErQiwIE8GVzhBcP9BpVasUFAi01cJ3xzwxif8VA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:25:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXCE-nSB2VPyzMkX0GU34rwPQKhxnVxnPoZRqg6TpHBuGUfnqNHhbiu-7j74uqVOA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:26:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 257.230 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWRF2esmQTRgiqfFTj2RRfqMlWzN_hT-sPesM52IN8YZ1g3IHTLmFHlqqovVmvxSw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:27:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 364.066 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXSKs1n82Iw3XhRnjfhDbeU-90Xvkj5mFBmBVQlCjah0OrHrKeKUVGKUnIlyIaijw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:28:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWEm8q1uTjN5XznT_as0J_DTwJlUn_lHKeX44Y44u0t9C-yrGpASA5miCraHKlJug&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:28:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 249.101 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW7B_IoD8pq7r9nPYVbg0xH-lAWp1JIN3i9heXXD1LJKbV84RhxI4wXTQ5KWpu20A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:29:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 226.468 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUcznudogaktiEb_GY0YSXJwYBF1NWBQJPTXR_A7PUa2qqiIXCdnrobQU_Ww2pHAA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:29:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 682.780 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUcznudogaktiEb_GY0YSXJwYBF1NWBQJPTXR_A7PUa2qqiIXCdnrobQU_Ww2pHAA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:30:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 366.729 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVEQc4RXNWkNbLiVOqeHEJXPgSBF1PLEA0ukYWnKpUlDu37FeeUeFOG1VzrcTs2kw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:30:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 267.492 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVmqH8ituyYfocqsjXJIos_AOGKN_NwlMWJmvQW4quzz3GwSYQbzQ9S3OVGx48xdg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:31:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 228.796 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV0iXU4KutKv5q_El6pSDr2pzttCE7de-cJ4SbWPljqqiRck-muG_JGZXpkQqdRaQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:31:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 226.807 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUtEQLtLpq087CubDJSDs8iWLO2mneyXXt1huWZCbjCiPvhTmdF6HEK8ntnCSJ9CA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:32:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 248.232 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWVQwk1PYm3flwCJwW3jWKw4ChcZA2SQcjABo8ir2PRHOO0a_DXGM58dxKrek59Ag&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:32:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 243.524 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUM9KBPcInjoADjbFQxeVTv77TdyAQYMrYrwg1Pd-0crC1AS0HNNM6RFcjGBnDEdQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:33:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 226.192 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXP_ten4yv_iBaTa1EHGkvR0PT4mqo1HR2Vz9DX7es6QS3U2oPyFd4eYW3eo6TMeQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:34:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVy4iJvu8LxbIvCBq267Ud4XifvvAVnMQkwv3EK_F7p-OKdBUQ--XElV-FIW0KDGg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:34:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 393.436 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUJoe47i5CBQhQnLrzJGK6MZ3bQ1zQ5bx4pFTOHZTgr8FWhr7WGY3gLeWli499oLw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:34:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVkoclJMFL6VXkkU4zGOjqViEJttrdjEXBL094OjjuyteOzK0eP2Y8xKDaU9Pyy7Q&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:43:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWfqtsJfcSKV06K5Ry91TYulIPt9fCiqquf_BA6Ntf54rywev-7aIilLnmrVkS5aA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:45:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 369.703 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV48lRIYq_qdNQet5ZMjNB8ijF1xQvPOrAr90udJ32hoMcFs8IWPSg_HMTPVXJPsw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:46:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 405.092 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW7X00_qwY7ayt8IAUvD9LHJTEwl7ultGcpdj_y6If5469YM2r_w2YZU5OIUv1ICQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:47:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1259.621 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWuW9vmaM_6tWz3Dk6uZf1uSXpBPnWK1phV7Awj9sfGYV3DY7r48_T5vCbbPE4myQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:49:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 339.694 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVPB17Si2Kmy4N5WyzosJhGq0iAUhgmsPpVi4MbCQ8Yl6h8ZZ6-nXnFAdzpcLY0Cw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 10:49:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 232.544 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:49:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.593 ms 
+
+Request: GET /auth/github/callback?error=redirect_uri_mismatch&error_description=The+redirect_uri+MUST+match+the+registered+callback+URL+for+this+application.&error_uri=https%3A%2F%2Fdocs.github.com%2Fapps%2Fmanaging-oauth-apps%2Ftroubleshooting-authorization-request-errors%2F%23redirect-uri-mismatch at Thu Jul 27 2023 10:49:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 0.631 ms 
+
+Request: GET /auth/github/ at Thu Jul 27 2023 10:50:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.226 ms 
+
+Request: GET /auth/github/callback?code=3a3a029142b8da841ac1 at Thu Jul 27 2023 10:50:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:50:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.296 ms 
+
+Request: GET /auth/github/callback?code=73e5c8d6dd7bb3cd6aee at Thu Jul 27 2023 10:51:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:51:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.232 ms 
+
+Request: GET /auth/github/callback?code=d0df1b9c9cee50cacb13 at Thu Jul 27 2023 10:51:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:51:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.240 ms 
+
+Request: GET /auth/github/callback?code=c8422acbb47d98e6cb23 at Thu Jul 27 2023 10:51:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 275.395 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:51:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.503 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:51:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 241.842 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:51:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.515 ms 
+
+Request: GET /auth/github/callback?code=4c64acf54cad04d713ea at Thu Jul 27 2023 10:51:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:51:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 166.369 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:51:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 172.905 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:52:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1309.610 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:53:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 247.070 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:53:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 245.916 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 10:53:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.392 ms 
+
+Request: GET /auth/github/callback?code=3b59e5a2165388ccdf92 at Thu Jul 27 2023 10:53:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:53:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 167.710 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:54:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 281.716 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:54:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 272.199 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:54:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 260.624 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:55:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 263.409 ms 
+
+Request: GET /auth/github/callback?code=e6d7a6d39347204b34cc at Thu Jul 27 2023 10:56:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1301.421 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 11:00:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.297 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhX8SpWjV8xxuSBJS0Q53CpGkfV1UzIY_BH4m31xz2etnbvw1humm6lyvdh541Zqxw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:00:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 387.378 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUkkcoEiP__0ynsT57XSyPhUYvGFxkWw9QyHC1ko540orv_B1x7Xp-HB4sowwes5g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:01:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 230.577 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWfyEPsd2uunGD3NFbb_uAs7kJiAlwMkzi_enEN_jhfLuU6ISOJG-1_hYV_oS55OA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:01:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUTrYm0_CedFThEaP3XRzDrT8zzuxob5Cyxoiw89VYEFbI8v2dYPg4z0hGyjvlsIA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:02:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 229.772 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUPmz5KnBgLXdtX0juEH6duKhf2o9aX-XQejzm0WOBsJc-yaQH8HZ_7oVyCk4W28g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:02:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 382.339 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVBE3_iUc54z06DaGax_IaTZ3A0nIuw-MHaceBfdyEo7vSye0CP93T3DXTRoMtYzQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:03:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 380.685 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWVY0gdsdsKo4rnL2qCFgrwsYdzd-3ioeRXQbkJXjs8L_km-CFTh-WfUQegth-4MA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:04:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 275.209 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUPfSVTaETm66T6_OoXY4H77vfSjma11V_ztiTOR2D9R5SuVbPggHMVy2RV6_Quaw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:06:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 256.521 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUnTuXOMGSfL3RzT3I4wgXB8A2uELmDUzi63tUfechtbH4Iv5oMbrwXgdnIhC4X_g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:06:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 405.487 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV8DIOMCWahomzKCTsJM_NAeEThl6sCflIgt_VONfnAF6gsubadEC_G8tVlm5DyTw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:07:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 220.336 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVH9omV0M6R4c0yafIq_yT59TGpHSw-03cnHvPOPDlAHkmQ47izEcS1d5fnVKm_ew&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:08:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 385.492 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWzNu3Cf6j_1vYgOWn4-3xYjQQ6V7R89xYdwiWclMW03ffdghrufFuMxAzYjshOJA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:13:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 225.592 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhV0nVNTBFgcnglpPuppn9HzYZIsTVHqSS4udcvR_6kmsF4sGNZvvfYmgkxy2Hy8wQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:14:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 229.962 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 11:14:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.686 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUEaOtBGMkdcytSyo8WyLRxrJuY-vCYrAWUSX7KYyf0bxU2NUZi-8EKRZIug-G0FQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:15:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 392.311 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUiTsTYX84munK3y5ODEojb8pMPswg1hQS9ssPHSuoq1fE4y8AjtIUzbTPpu5RO0A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:15:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 223.280 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUCVxwPQ5e_blC7ntpsjzmJIgq0QxHre0lQ68s-vL0YOHRObLOdysI6YsR_UfssWw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:21:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 229.850 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXt_SHaq1HbhevZjj2NsZgedyxR56czXS0zJcyR3iOHS8J7cledzMV4L7TwcZdUCQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:21:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback/success at Thu Jul 27 2023 11:22:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback/success at Thu Jul 27 2023 11:22:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback/success at Thu Jul 27 2023 11:24:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:24:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.082 ms 
+
+Request: GET /auth/github/callback?code=0582dfa572b97fcd6d54 at Thu Jul 27 2023 11:24:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback/success at Thu Jul 27 2023 11:25:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback/success at Thu Jul 27 2023 11:25:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:25:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.970 ms 
+
+Request: GET /auth/github/callback?code=8478ece643341a411f68 at Thu Jul 27 2023 11:25:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 413.756 ms 
+
+Request: GET /auth/google/callback/success at Thu Jul 27 2023 11:25:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:25:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.407 ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:26:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 272.081 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.222 ms 
+
+Request: GET /auth/github/callback?code=4275776111b6f995c89e at Thu Jul 27 2023 11:28:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 268.500 ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 261.036 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:29:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.486 ms 
+
+Request: GET /auth/github/callback?code=463e0312c337ef42c8ae at Thu Jul 27 2023 11:29:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 343.424 ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 172.440 ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 175.154 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:29:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.214 ms 
+
+Request: GET /auth/github/callback?code=4faddd625517d407f991 at Thu Jul 27 2023 11:29:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 238.749 ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 201.674 ms 
+
+Request: GET /auth/github/callback?code=4143711ec1e09ff6b0b3 at Thu Jul 27 2023 11:29:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 181.872 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:29:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.283 ms 
+
+Request: GET /auth/github/callback?code=8eea597dddfc205573c0 at Thu Jul 27 2023 11:29:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 454.914 ms 
+
+Request: GET /auth/github/callback?code=8eea597dddfc205573c0 at Thu Jul 27 2023 11:29:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 284.806 ms 
+
+Request: GET /auth/github at Thu Jul 27 2023 11:30:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.532 ms 
+
+Request: GET /auth/github/callback?code=10fce62ee398b3fca73a at Thu Jul 27 2023 11:31:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 11:31:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.571 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhUleIxDAUPI0NsIQPn45jL0r3auCBRKP1tsN1FuHChSrAQ4A7eRVqx3cGKjM3GC7A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:35:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 429.851 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWuA_bwcA1GM4ESZIBaxJoDZZuvTNp3dxhRiEUTpx330MIQTJzaO-O344cUI0XzDw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:36:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 11:37:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1.415 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWZ8BoHQS5bOyQpezt9HXE6Ab3iT9NSbdfvjF3Q-5SSxJyJJVGtguy__5-rgZZcBw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:38:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 219.887 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhWZ8BoHQS5bOyQpezt9HXE6Ab3iT9NSbdfvjF3Q-5SSxJyJJVGtguy__5-rgZZcBw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:38:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 275.669 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 11:38:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.459 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhW11cdltGRLQOJz7TPnQqEFMPJf6224TkYO2abgq86GNp4EHcNgpGE9tfwAHqW3eQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:40:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 285.854 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXwLqzJrbD8Jlmo1H3cLQzEI-5UOpfDG0ywjYVknnwNOsEP0v-_dg6EfHUXLBKWhw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:49:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 269.332 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXwLqzJrbD8Jlmo1H3cLQzEI-5UOpfDG0ywjYVknnwNOsEP0v-_dg6EfHUXLBKWhw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:49:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 102.420 ms 
+
+Request: GET /auth/google at Thu Jul 27 2023 11:49:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 0.416 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXomNL7yNDI4XOPXQN0U3FSKrMRRvKlOZE8wYp3V5aZkjEdnFR2HULcUQELu_QngQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:50:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXwLqzJrbD8Jlmo1H3cLQzEI-5UOpfDG0ywjYVknnwNOsEP0v-_dg6EfHUXLBKWhw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:50:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 208.025 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXwLqzJrbD8Jlmo1H3cLQzEI-5UOpfDG0ywjYVknnwNOsEP0v-_dg6EfHUXLBKWhw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:52:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 1273.676 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhViDHfXFnZ8T_I1X0u2OGSB1MzMCiBIA4fguLeSabqkModTleaAb6B5_ofh-DZJUA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:53:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 224.186 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhViDHfXFnZ8T_I1X0u2OGSB1MzMCiBIA4fguLeSabqkModTleaAb6B5_ofh-DZJUA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:53:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 204.739 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVVMHlrWYtk1ZVmxewNE2OfCyln8UhTLvZaPwleUim71sk8ula_6TMLBRHmTdQdmA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:55:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 302 1020.635 ms 
+
+Request: GET /auth/login at Thu Jul 27 2023 11:55:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 401 1.747 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhXDA_BoFHNfP5kVb-4mn7XHD9bHpt-QiJcXM0R_dF8n2Il4yrApgwvrKB11BuAldA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 11:57:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 500 224.073 ms 
+
+Request: GET /auth/google/callback?code=4%2F0AZEOvhVxzhZIEzfdWgjQ6rw9ruKWIW7uSYSPG9E5hyhqcI0rm4a23wF8kML-FSGjAbl0fg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent at Thu Jul 27 2023 12:04:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: - - ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.803 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.381 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.219 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.189 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.225 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.165 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.206 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.158 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.192 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.214 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.283 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.154 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.348 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.151 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.209 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.133 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.252 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.148 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.196 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:24:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.222 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 1.738 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.359 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.271 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.171 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.283 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.209 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.280 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.159 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.246 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.188 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.239 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.151 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.258 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.137 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.190 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.127 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.231 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.144 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.279 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.143 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.284 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.169 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.259 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.228 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.252 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.179 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.244 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.171 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.194 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:27:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.240 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 2.888 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.367 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.192 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.159 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.290 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.141 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.250 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.162 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.257 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.175 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.362 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.191 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.232 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.142 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.165 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:28:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.136 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.159 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.124 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.171 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.128 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.177 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.141 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.170 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.136 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.169 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.123 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.161 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.126 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.229 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.161 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.162 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.139 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.151 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.128 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.212 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.173 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.188 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.208 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.186 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.144 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.176 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.192 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.149 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.211 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.180 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.198 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.164 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.167 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.170 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.147 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.156 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.154 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.163 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.212 ms 
+
+Request: POST /auth/login at Thu Jul 27 2023 22:29:37 GMT-0300, IP: ::1, User Agent: PostmanRuntime/7.32.3
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"user": {
+			"id": "b172c585-6809-49a2-8626-ce2134d5e5f3",
+			"email": "lollato7@gmail.com",
+			"name": "Bruno Lollato"
+		},
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7ImlkIjoiYjE3MmM1ODUtNjgwOS00OWEyLTg2MjYtY2UyMTM0ZDVlNWYzIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJuYW1lIjoiQnJ1bm8gTG9sbGF0byIsInBhc3N3b3JkIjoiJDJhJDA4JGNkNUQxeEZsaHdXYlV1SzZkN0I1Rk9Md3A5eUU2VVpxTG5sUHozTm50VjZkVEM1Z1hkeW9pIiwiZW1haWxWZXJpZmllZCI6ZmFsc2UsInByb3ZpZGVyIjoibG9jYWwiLCJwcm92aWRlcklkIjpudWxsLCJhdmF0YXIiOm51bGwsImNyZWF0ZWRfYXQiOiIyMDIzLTA3LTI3VDExOjM3OjAyLjA1N1oiLCJ1cGRhdGVkX2F0IjoiMjAyMy0wNy0yN1QxMTozNzowMi4wNTdaIiwicm9sZU5hbWUiOiJhZG1pbiJ9LCJpYXQiOjE2OTA1MDc3Nzd9.RstUfmsvdyoBz_w0im8mYfT67SPXCkPv1JW936tDUYU"
+	}
+}
+Response: 200 258.453 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.179 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:29:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.112 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.131 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.127 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.193 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.268 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.165 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.204 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.159 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.122 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.162 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:30:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.131 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.151 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.296 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.153 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.126 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.266 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.218 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.151 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.124 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.155 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.113 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.147 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.107 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.154 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.142 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.192 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.150 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.141 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.212 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.158 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.160 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.190 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.144 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.174 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.212 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.214 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.183 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.233 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.214 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.158 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.116 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.178 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.189 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.191 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.255 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.159 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.184 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.186 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.157 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.217 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.139 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.151 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.177 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.182 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.130 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.226 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.155 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.152 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:31:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.117 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:32:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.144 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:33:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.134 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:35:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.258 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:35:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.132 ms 
+
+Request: OPTIONS /auth/login at Thu Jul 27 2023 22:35:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.144 ms 
+
+Request: OPTIONS /auth/login at Fri Jul 28 2023 07:51:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.146 ms 
+
+Request: OPTIONS /auth/login at Fri Jul 28 2023 07:54:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.152 ms 
+
+Request: POST /auth/login at Fri Jul 28 2023 07:54:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 400 9.818 ms 
+
+Request: OPTIONS /auth/login at Fri Jul 28 2023 07:54:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.569 ms 
+
+Request: POST /auth/login at Fri Jul 28 2023 07:54:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 400 1.010 ms 
+
+Request: OPTIONS /auth/login at Fri Jul 28 2023 07:54:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response Body:
+POST
+Response: 200 0.285 ms 
+
+Request: POST /auth/login at Fri Jul 28 2023 07:54:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "lollato7@gmail.com",
+	"password": "085996"
+}
+Response Body:
+{
+	"status": true,
+	"message": "Login successful",
+	"data": {
+		"user": {
+			"id": "b172c585-6809-49a2-8626-ce2134d5e5f3",
+			"email": "lollato7@gmail.com",
+			"name": "Bruno Lollato"
+		},
+		"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7ImlkIjoiYjE3MmM1ODUtNjgwOS00OWEyLTg2MjYtY2UyMTM0ZDVlNWYzIiwiZW1haWwiOiJsb2xsYXRvN0BnbWFpbC5jb20iLCJuYW1lIjoiQnJ1bm8gTG9sbGF0byIsInBhc3N3b3JkIjoiJDJhJDA4JGNkNUQxeEZsaHdXYlV1SzZkN0I1Rk9Md3A5eUU2VVpxTG5sUHozTm50VjZkVEM1Z1hkeW9pIiwiZW1haWxWZXJpZmllZCI6ZmFsc2UsInByb3ZpZGVyIjoibG9jYWwiLCJwcm92aWRlcklkIjpudWxsLCJhdmF0YXIiOm51bGwsImNyZWF0ZWRfYXQiOiIyMDIzLTA3LTI3VDExOjM3OjAyLjA1N1oiLCJ1cGRhdGVkX2F0IjoiMjAyMy0wNy0yN1QxMTozNzowMi4wNTdaIiwicm9sZU5hbWUiOiJhZG1pbiJ9LCJpYXQiOjE2OTA1NDE2OTZ9.ZETQcMH40sxnAy5XIvmvbCN1CllPQBNkwi_VzS1eaeM"
+	}
+}
+Response: 200 86.670 ms 
