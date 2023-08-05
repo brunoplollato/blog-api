@@ -6,6 +6,6 @@ exports.healthCheck = async (req, res, next) => {
   try {
     res.status(200).json({ status: true, message: 'API status: Online' });
   } catch (error) {
-    next(createError(error));
+    next(res.status(500).json({status: false, message: error.message}));
   }
 };

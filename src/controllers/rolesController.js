@@ -16,7 +16,7 @@ exports.createNewRole = async (req, res, next) => {
       data: newRole
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -25,7 +25,7 @@ exports.getAllRoles = async (req, res, next) => {
     const roles = await prisma.role.findMany();
     res.json(roles);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -37,11 +37,11 @@ exports.getRoleById = async (req, res, next) => {
       include: { name: true },
     });
     if (!role) {
-      return next(createError.NotFound('Role not found'));
+      return next(res.status(500).json({status: false, message: 'Role not found'}));
     }
     res.json(role);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -61,7 +61,7 @@ exports.updateRole = async (req, res, next) => {
       data: updatedRole
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -73,6 +73,6 @@ exports.deleteRole = async (req, res, next) => {
     });
     res.status(200).json({ status: true, message: 'Role deleted successfully' });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }

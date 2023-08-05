@@ -1,38 +1,38 @@
 const { PrismaClient } = require('@prisma/client');
 const bcrypt = require('bcryptjs');
 const prisma = new PrismaClient();
-const createError = require('http-errors')
+const createError = require('http-errors');
 
 exports.createNewUser = async (req, res, next) => {
   const { name, email, roleName, password } = req.body.data;
   try {
-    const hashedPassword = await bcrypt.hashSync(password, 8)
+    const hashedPassword = await bcrypt.hashSync(password, 8);
     const newUser = await prisma.user.create({
       data: {
         name,
         email,
         roleName,
-        password: hashedPassword
+        password: hashedPassword,
       },
     });
     res.status(200).json({
       status: true,
       message: 'User created successfully',
-      data: newUser
+      data: newUser,
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({ status: false, message: error.message }));
   }
-}
+};
 
 exports.getAllUsers = async (req, res, next) => {
   try {
     const users = await prisma.user.findMany();
     res.json(users);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({ status: false, message: error.message }));
   }
-}
+};
 
 exports.getUserById = async (req, res, next) => {
   const { id } = req.params;
@@ -42,13 +42,15 @@ exports.getUserById = async (req, res, next) => {
       include: { name: true },
     });
     if (!user) {
-      return next(createError.NotFound('User not found'));
+      return next(
+        res.status(500).json({ status: false, message: 'User not found' })
+      );
     }
     res.json(user);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({ status: false, message: error.message }));
   }
-}
+};
 
 exports.updateUser = async (req, res, next) => {
   const { id } = req.params;
@@ -60,18 +62,18 @@ exports.updateUser = async (req, res, next) => {
         name,
         email,
         roleId,
-        password
+        password,
       },
     });
     res.status(200).json({
       status: true,
       message: 'User updated successfully',
-      data: updatedUser
+      data: updatedUser,
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({ status: false, message: error.message }));
   }
-}
+};
 
 exports.deleteUser = async (req, res, next) => {
   const { id } = req.params;
@@ -81,9 +83,9 @@ exports.deleteUser = async (req, res, next) => {
     });
     res.status(200).json({
       status: true,
-      message: 'User deleted successfully'
+      message: 'User deleted successfully',
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({ status: false, message: error.message }));
   }
-}
+};

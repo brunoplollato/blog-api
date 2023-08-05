@@ -10,8 +10,8 @@ const cors = require('cors');
 const createError = require('http-errors');
 require('dotenv').config()
 const { WHITELIST } = require('./environments');
-
 const app = express()
+
 const log = fs.createWriteStream(
   path.join(__dirname, "../logs", `express${moment().format('YYYY-MM-DD')}.log`), { flags: "a" }
 );
@@ -30,8 +30,9 @@ morganBody(app, {
   noColors: true,
   stream: log,
 });
-app.use(cors(corsOptions));
+
 app.use(bodyParser.json());
+app.use(cors(corsOptions));
 app.use(router);
   
 app.listen(PORT, () => console.log(`Server is running on port ${PORT}`))

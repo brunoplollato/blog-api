@@ -4,7 +4,7 @@ const prisma = new PrismaClient();
 const bcrypt = require('bcryptjs');
 const createError = require('http-errors');
 const nodemailer = require('nodemailer');
-const { EMAIL_SERVICE, EMAIL_USER, EMAIL_PASSWORD, EMAIL_FROM, BASE_URL } = require('../environments');
+const { EMAIL_SERVICE, EMAIL_USER, EMAIL_PASSWORD, EMAIL_FROM, FRONTEND_BASE_URL } = require('../environments');
 
 exports.registerHandler = async (req, res, next) => {
   const { email, name, password, confirmPassword, roleName = 'user', provider = 'local' } = req.body
@@ -13,27 +13,44 @@ exports.registerHandler = async (req, res, next) => {
       where: { email }
     })
     if (user)
-      return next(createError.NotFound('User already exists'));
-    
+      return res.status(403).json({ status: false, message: 'User already exists' });
+      
     if (password !== confirmPassword)
-      return next(createError.Forbidden('Password and confirm password should be the same'));
+      return res.status(403).json({ status: false, message: 'Password and confirm password should be the same' });
     
-    const { name, email, roleName, emailVerified } = await prisma.user.create({
+    const hashedPassword = bcrypt.hashSync(password)
+    
+    const newUser = await prisma.user.create({
       data: {
         name,
         email,
         roleName,
-        password,
+        password: hashedPassword,
         provider
       },
     });
 
     const accessToken = await jwt.signAccessToken({
-      id,
-      name,
-      email,
-      roleName,
-      emailVerified
+      id: newUser.id,
+      name: newUser.name,
+      email: newUser.email,
+      roleName: newUser.roleName,
+      avatar: newUser.avatar,
+      emailVerified: newUser.emailVerified
+    });
+
+    const refreshToken = await jwt.signRefreshToken({
+      id: newUser.id,
+      name: newUser.name,
+      email: newUser.email,
+      roleName: newUser.roleName,
+      avatar: newUser.avatar,
+      emailVerified: newUser.emailVerified
+    });
+
+    const emailToken = await jwt.signEmailToken({
+      id: newUser.id,
+      email: newUser.email,
     });
 
     const emailBody = `
@@ -64,7 +81,7 @@ exports.registerHandler = async (req, res, next) => {
           <h1>Email Verification</h1>
           <p>Hello ${name},</p>
           <p>Thank you for registering with our platform. Please click the button below to verify your email address:</p>
-          <a href="${BASE_URL}/auth/verify-email?token=${accessToken}" class="button">Verify Email</a>
+          <a href="${FRONTEND_BASE_URL}/verify-email/${emailToken}" class="button">Verify Email</a>
           <p>If you did not register for an account, please ignore this email.</p>
           <p>Best regards,</p>
           <p>Your Company Name</p>
@@ -103,7 +120,7 @@ exports.registerHandler = async (req, res, next) => {
       data: { accessToken, refreshToken}
     });
   } catch (error) {
-    next(createError(error))  
+    next(res.status(500).json({status: false, message: error.message}))  
   }
 }
 
@@ -116,13 +133,13 @@ exports.loginHandler = async (req, res, next) => {
     });
     
     if (!user) {
-      return next(createError.Unauthorized('Invalid email or password'));
+      return res.status(401).json({ status: false, message: 'Invalid email or password' });
     }
     
     const passwordMatch = await bcrypt.compareSync(password, user.password);
 
     if (!passwordMatch) {
-      return next(createError.Unauthorized('Invalid email or password'));
+      return res.status(401).json({ status: false, message: 'Invalid email or password' });
     }
 
     const payload = {
@@ -153,35 +170,34 @@ exports.logoutHandler = async (req, res, next) => {
     res.cookie('accessToken', '', { httpOnly: true, maxAge: 0 });
     res.status(200).json({ status: true, message: 'Logged out successfully' });
   } catch (error) {
-    next(createError(error));
+    next(res.status(500).json({status: false, message: error.message}))  
   }
 };
 
 exports.verifyEmail = async (req, res, next) => {
   const { token } = req.query;
   try {
-    const decodedToken = await  jwt.verifyAccessToken(token);
-    console.log("🚀 ~ file: authController.js:153 ~ exports.verifyEmail= ~ decodedToken:", decodedToken)
+    const decodedToken = await  jwt.verifyEmailToken(token);
     const { email } = decodedToken.payload;
 
     const user = await prisma.user.findUnique({
       where: { email },
     });
 
-    if (!user) {
-      return next(createError.NotFound('User not found'));
-    }
+    if (!user) 
+      return res.status(404).json({ status: false, message: 'User not found' });
+    
 
-    if (user.verified) {
-      return res.status(200).json({
-        status: true,
+    if (user.emailVerified) {
+      return res.status(409).json({
+        status: false,
         message: 'Email already verified',
       });
     }
 
     const newUser = await prisma.user.update({
       where: { email },
-      data: { verified: true },
+      data: { emailVerified: true },
     });
 
     const payload = {
@@ -194,6 +210,7 @@ exports.verifyEmail = async (req, res, next) => {
     }
 
     const accessToken = await jwt.signAccessToken(payload);
+    const refreshToken = await jwt.signRefreshToken(payload);
 
     res.status(200).json({
       status: true,
@@ -202,9 +219,9 @@ exports.verifyEmail = async (req, res, next) => {
     });
   } catch (error) {
     if (error.name === 'TokenExpiredError') {
-      return next(createError.Unauthorized('Verification link has expired'));
+      return next(res.status(401).json({status: false, message: error.message}))  
     } else {
-      return next(createError.Unauthorized('Invalid verification token'));
+      return next(res.status(500).json({status: false, message: error.message}))  
     }
   }
 };
@@ -212,7 +229,6 @@ exports.verifyEmail = async (req, res, next) => {
 exports.refreshTokenHandler = async (req, res, next) => {
   try {
     const { refreshToken } = req.body.data;
-    console.log("🚀 ~ file: authController.js:214 ~ exports.refreshTokenHandler= ~ refreshToken:", refreshToken)
     
     const refreshTokenVerify = await jwt.verifyRefreshToken(refreshToken);
     
@@ -224,6 +240,6 @@ exports.refreshTokenHandler = async (req, res, next) => {
       data: { accessToken, refreshToken}
     });
   } catch (error) {
-    next(createError(error));
+    next(res.status(500).json({status: false, message: error.message}))
   }
 };

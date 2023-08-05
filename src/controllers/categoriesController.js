@@ -4,7 +4,6 @@ const createError = require('http-errors')
 
 exports.createNewCategory = async (req, res, next) => {
   const { name } = req.body.data;
-  console.log("🚀 ~ file: categoriesController.js:7 ~ exports.createNewCategory= ~ name:", name)
   try {
     const newCategory = await prisma.category.create({
       data: {
@@ -38,11 +37,11 @@ exports.getCategoryById = async (req, res, next) => {
       include: { name: true },
     });
     if (!category) {
-      return next(createError.NotFound('Category already exists'));
+      return next(res.status(409).json({status: false, message: 'Category already exists'}));
     }
     res.json(category);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -62,7 +61,7 @@ exports.updateCategory = async (req, res, next) => {
       data: updatedCategory
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -74,6 +73,6 @@ exports.deleteCategory = async (req, res, next) => {
     });
     res.status(200).json({ status: true, message: 'Category deleted successfully' });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }

@@ -25,6 +25,7 @@
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
     "http-errors": "^2.0.0",
+    "http-json-errors": "^1.2.12",
     "jsonwebtoken": "^9.0.1",
     "moment": "^2.29.4",
     "morgan": "^1.10.0",
@@ -35,6 +36,7 @@
     "passport": "^0.6.0",
     "passport-github2": "^0.1.12",
     "passport-google-oauth20": "^2.0.0",
+    "prettier": "^3.0.1",
     "swagger-autogen": "^2.23.5",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0"

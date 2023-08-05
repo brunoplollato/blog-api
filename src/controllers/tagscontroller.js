@@ -16,7 +16,7 @@ exports.createNewTag = async (req, res, next) => {
       data: newTag
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -25,7 +25,7 @@ exports.getAllTags = async (req, res, next) => {
     const tags = await prisma.tag.findMany();
     res.json(tags);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -37,11 +37,11 @@ exports.getTagById = async (req, res, next) => {
       include: { name: true },
     });
     if (!tag) {
-      return next(createError.NotFound('Tag not found'));
+      return next(res.status(500).json({status: false, message: 'Tag not found'}));
     }
     res.json(tag);
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -61,7 +61,7 @@ exports.updateTag = async (req, res, next) => {
       data: updatedTag
     });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
 
@@ -73,6 +73,6 @@ exports.deleteTag = async (req, res, next) => {
     });
     res.status(200).json({ status: true, message: 'Tag deleted successfully' });
   } catch (error) {
-    next(createError(error))
+    next(res.status(500).json({status: false, message: error.message}));
   }
 }
