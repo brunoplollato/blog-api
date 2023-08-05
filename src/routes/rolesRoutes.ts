@@ -1,7 +1,13 @@
 // routes/roleRoutes.js
-const express = require('express');
-const { createNewRole, getAllRoles, getRoleById, updateRole, deleteRole } = require('../controllers/rolesController');
-const authorize = require('../middlewares/authMiddleware');
+import express from 'express';
+import {
+  createNewRole,
+  getAllRoles,
+  getRoleById,
+  updateRole,
+  deleteRole,
+} from '../controllers/rolesController';
+import authorize from '../middlewares/authMiddleware';
 
 const router = express.Router();
 
@@ -20,4 +26,4 @@ router.put('/roles/:id', authorize(['admin']), updateRole);
 // Delete a role
 router.delete('/roles/:id', authorize(['admin']), deleteRole);
 
-module.exports = router;
+export default router;

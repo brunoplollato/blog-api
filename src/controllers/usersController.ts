@@ -1,9 +1,13 @@
-const { PrismaClient } = require('@prisma/client');
 const bcrypt = require('bcryptjs');
+import { Request, Response, NextFunction } from 'express';
+import { PrismaClient } from '@prisma/client';
 const prisma = new PrismaClient();
-const createError = require('http-errors');
 
-exports.createNewUser = async (req, res, next) => {
+export const createNewUser = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   const { name, email, roleName, password } = req.body.data;
   try {
     const hashedPassword = await bcrypt.hashSync(password, 8);
@@ -20,26 +24,34 @@ exports.createNewUser = async (req, res, next) => {
       message: 'User created successfully',
       data: newUser,
     });
-  } catch (error) {
+  } catch (error: any) {
     next(res.status(500).json({ status: false, message: error.message }));
   }
 };
 
-exports.getAllUsers = async (req, res, next) => {
+export const getAllUsers = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   try {
     const users = await prisma.user.findMany();
     res.json(users);
-  } catch (error) {
+  } catch (error: any) {
     next(res.status(500).json({ status: false, message: error.message }));
   }
 };
 
-exports.getUserById = async (req, res, next) => {
+export const getUserById = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   const { id } = req.params;
   try {
     const user = await prisma.user.findUnique({
       where: { id },
-      include: { name: true },
+      include: { name: true } as any,
     });
     if (!user) {
       return next(
@@ -47,12 +59,16 @@ exports.getUserById = async (req, res, next) => {
       );
     }
     res.json(user);
-  } catch (error) {
+  } catch (error: any) {
     next(res.status(500).json({ status: false, message: error.message }));
   }
 };
 
-exports.updateUser = async (req, res, next) => {
+export const updateUser = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   const { id } = req.params;
   const { name, email, roleId } = req.body.data;
   try {
@@ -62,20 +78,23 @@ exports.updateUser = async (req, res, next) => {
         name,
         email,
         roleId,
-        password,
-      },
+      } as any,
     });
     res.status(200).json({
       status: true,
       message: 'User updated successfully',
       data: updatedUser,
     });
-  } catch (error) {
+  } catch (error: any) {
     next(res.status(500).json({ status: false, message: error.message }));
   }
 };
 
-exports.deleteUser = async (req, res, next) => {
+export const deleteUser = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   const { id } = req.params;
   try {
     await prisma.user.delete({
@@ -85,7 +104,7 @@ exports.deleteUser = async (req, res, next) => {
       status: true,
       message: 'User deleted successfully',
     });
-  } catch (error) {
+  } catch (error: any) {
     next(res.status(500).json({ status: false, message: error.message }));
   }
 };

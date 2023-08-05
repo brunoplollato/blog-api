@@ -1,7 +1,12 @@
-// routes/tagRoutes.js
 const express = require('express');
-const { createNewTag, getAllTags, getTagById, updateTag, deleteTag } = require('../controllers/tagscontroller');
-const authorize = require('../middlewares/authMiddleware');
+import {
+  createNewTag,
+  getAllTags,
+  getTagById,
+  updateTag,
+  deleteTag,
+} from '../controllers/tagscontroller';
+import authorize from '../middlewares/authMiddleware';
 
 const router = express.Router();
 
@@ -20,4 +25,4 @@ router.put('/tags/:id', authorize(['admin', 'redator', 'editor']), updateTag);
 // Delete a tag
 router.delete('/tags/:id', authorize(['admin', 'redator']), deleteTag);
 
-module.exports = router;
+export default router;
